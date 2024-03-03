@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: d1d261aae3e2a9b4d9daab334d5cb7ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8860781456412193777
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_0"
+  - first:
+      213: 4090685391994645101
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_1"
+  - first:
+      213: -1569611771054429778
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_2"
+  - first:
+      213: -7005223733777134031
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_3"
+  - first:
+      213: 7159357710432712102
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_4"
+  - first:
+      213: -7585509905323570786
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_5"
+  - first:
+      213: 3295849873415423700
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_6"
+  - first:
+      213: 6808419068513163412
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_7"
+  - first:
+      213: 3051681492188890849
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_8"
+  - first:
+      213: 2364981865627451600
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_9"
+  - first:
+      213: -3985755121408577731
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_10"
+  - first:
+      213: 2908812046347019130
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_11"
+  - first:
+      213: 4790538148435951119
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_12"
+  - first:
+      213: -1235965818942757246
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_13"
+  - first:
+      213: 7222179884916991935
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_14"
+  - first:
+      213: 5751246837914663679
+    second: "\u2014Pngtree\u2014green rounded rectangle clip_524093_15"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_0"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1155
+        width: 400
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f331d5c9c1d7fa70800000000000000
+      internalID: 8860781456412193777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_1"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 940
+        width: 1108
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a68bdc0b805c830800000000000000
+      internalID: 4090685391994645101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_2"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 764
+        width: 1108
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9670f096e973ae0800000000000000
+      internalID: -1569611771054429778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_3"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 506
+        width: 1108
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e0410212278ce90800000000000000
+      internalID: -7005223733777134031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_4"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 290
+        width: 1108
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5bb4ed7e52b5360800000000000000
+      internalID: 7159357710432712102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_5"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 92
+        width: 1108
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e994bfc4eeadab690800000000000000
+      internalID: -7585509905323570786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_6"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 49
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d641f96ff53dbd20800000000000000
+      internalID: 3295849873415423700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_7"
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 68
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49819bcf11d5c7e50800000000000000
+      internalID: 6808419068513163412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_8"
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 49
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e68d8d0620c95a20800000000000000
+      internalID: 3051681492188890849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_9"
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 49
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d007f00a7a12d020800000000000000
+      internalID: 2364981865627451600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_10"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 43
+        width: 141
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f6fb2a5d0cfa8c0800000000000000
+      internalID: -3985755121408577731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_11"
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 49
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7324e4052d2e5820800000000000000
+      internalID: 2908812046347019130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_12"
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 43
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e7b7c80196b7240800000000000000
+      internalID: 4790538148435951119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_13"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 49
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2866467d2a7f8dee0800000000000000
+      internalID: -1235965818942757246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_14"
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 49
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7e27037565a3460800000000000000
+      internalID: 7222179884916991935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014green rounded rectangle clip_524093_15"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 43
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffafd75178880df40800000000000000
+      internalID: 5751246837914663679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
